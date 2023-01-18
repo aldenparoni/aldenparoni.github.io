@@ -2,7 +2,7 @@
   "basics": {
     "name": "Alden-Dominic Paroni",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/aldenparoni.png",
     "email": "aparoni@hawaii.edu",
     "phone": "808-365-2647",
     "website": "https://aldenparoni.github.io",
@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Software Engineering" },
+    { "name": "Video Game Development" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,11 +32,20 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Information & Computer Science (expected Fall, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2022-08-22",
       "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Information & Computer Science",
+      "studyType": "A.S.",
+      "startDate": "2021-01-11",
+      "endDate": "2022-05-17",
       "courses": [
       ]
     }
