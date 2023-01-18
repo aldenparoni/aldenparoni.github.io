@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
     { "name": "Video Game Development" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Programming" },
+    { "name": "Screenwriting" },
+    { "name": "Korean Language" }
   ],
   "skills": [
     {
