@@ -7,7 +7,7 @@
     "phone": "808-365-2647",
     "website": "https://aldenparoni.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "94-003 Poailani Circle", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "aldenparoni", "url": "https://github.com/aldenparoni" },
       { "network": "linkedin", "username": "aldenparoni", "url": "https://www.linkedin.com/in/aldenparoni/" }
@@ -23,10 +23,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
@@ -60,24 +56,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Waipahu High School",
+      "position": "CRASH Night Presenter",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-10-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead workshops with high school students for post-high school readiness"
+    },
+    {
+      "company": "Waipahu High School",
+      "position": "AmeriCorps VISTA Summer Associate - Tagnawa Tutor",
+      "website": "",
+      "startDate": "2022-05-27",
+      "endDate": "2022-07-31",
+      "summary": "Tutored for Waipahu High School Early College students",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Troubleshoot software, hardware and networking issues over the phone",
+        "Answer phone and email responses to the ITS Help Desk"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Leeward Community College",
+      "position": "Language Arts Peer Mentor",
+      "website": "",
+      "startDate": "2022-01-05",
+      "endDate": "2022-05-17",
+      "summary": "Tutored for ENG 16 (developmental English)",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
