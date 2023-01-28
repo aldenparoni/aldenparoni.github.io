@@ -18,8 +18,12 @@ summary: "An original song I wrote and recorded in a group project for my audio 
 The inspiration behind writing "Something New" is unbearably cliche; basically I was crushing hard on a classmate who was already in a relationship, and the song was a way to cope with my feelings. Originally it wasn't my intention to use that song for the project, but my partner and I ultimately found it more convenient. Looking back, the lyrics are so sappy it makes me cringe. The chorus, which I’m admittedly proud of, is as follows:
 
 > I’ve grown so tired of the same four words
+> 
 > “You’ll find someone else” – it just never works
+> 
 > I wanna hear something new
+> 
 > Something like “I love you”
+> 
 > And I wanna hear it come from you
 
