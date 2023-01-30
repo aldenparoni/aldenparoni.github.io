@@ -13,7 +13,7 @@ labels:
 summary: "An original song I wrote and recorded in a group project for my audio engineering class in my senior year of high school."
 ---
 
-<img width="300px" src="../img/reason-screenshot.jpg" class="img-thumbnail" >
+<img width="300px" class="rounded float-start pe-4" src="../img/reason-screenshot.jpg">
 
 During the 3rd quarter of my senior year of high school, my audio engineering class was assigned a group project to produce an original song. The digital audio workspace software we were learning in class was Reason (pictured above), and we needed to use that to produce the song. We were free to choose our own groups, as long as there were at least two people. I was lucky to pair up with a classmate whom I had chemistry with musically. As far as my role in the group, I wrote most of the lyrics, and provided ukulele and vocals to the song. The resulting track was entitled “Something New.”
 
