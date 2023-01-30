@@ -19,11 +19,11 @@ During the 3rd quarter of my senior year of high school, my audio engineering cl
 
 "Something New" was a song that I had secretly been working on prior to doing the project. The inspiration behind it is unbearably cliche; basically I was crushing hard on a classmate who was already in a relationship, and it was getting to a point where I became desperate.  In retrospect, I have no idea why I thought these lyrics were okay; they’re so sappy they make me cringe. Take the chorus for example:
 
-  *I’ve grown so tired of the same four words
-  “You’ll find someone else” – it just never works
-  I wanna hear something new
-  Something like “I love you”
-  And I wanna hear it come from you*
+  *I’ve grown so tired of the same four words 
+  / “You’ll find someone else” – it just never works 
+  / I wanna hear something new 
+  / Something like “I love you” 
+  / And I wanna hear it come from you*
 
 Originally it wasn’t my intention to do anything else with the song, but my partner ultimately convinced me to expand upon the “good ideas” I already had. We took an ukulele ballad and turned it into a chill pop tune influenced by lo-fi hip hop. Working on the song was probably the most fun I had in a group project. A highlight of the process was recording the vocals. It was actually a nerve-wracking experience because we didn't have a separate recording booth in the class. Literally the entire classroom had to be completely quiet while I was singing into the mic. I can normally hold a tune well, but there were some takes where I was embarrassingly off-key. Luckily we were able to record the vocals for the entire song in one session. Upon its completion, the song was well received by the class, so much so that we were chosen to perform it live at our annual arts showcase.
 
