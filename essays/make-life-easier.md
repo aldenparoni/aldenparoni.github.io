@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Please... make life easier for yourself and everyone else"
 # All dates must be YYYY-MM-DD format!
-date: 2022-01-26
+date: 2023-01-26
 published: true
 labels:
   - StackOverflow
