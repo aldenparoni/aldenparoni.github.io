@@ -4,7 +4,7 @@ type: essay
 title: "The start of something wonderful and new"
 # All dates must be YYYY-MM-DD format!
 date: 2022-02-02
-published: false
+published: true
 labels:
   - Software Engineering
 ---
