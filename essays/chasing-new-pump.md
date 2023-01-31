@@ -10,7 +10,7 @@ labels:
   - Athletic software engineering
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/Epic-Handshake.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/Epic-Handshake.jpg">
 
 Ever since I decided to change course and go into computer science, JavaScript was like that one popular student on campus who was a friend of everyone but me. It wasn’t like I didn’t want to be friends with them; I was curious but we never had the chance to actually meet. We had mutual friends like Java, C, and Python, but before this semester we only ever exchanged friendly glances in passing. It took a while, but finally we found each other in the same class. After spending some time together, JavaScript became my new best friend. 
 
