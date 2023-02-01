@@ -15,7 +15,7 @@ summary: "An original song I wrote and recorded in a group project for my audio 
 
 <img width="500px" src="../img/reason-screenshot.jpg">
 
-During the 3rd quarter of my senior year of high school, my audio engineering class was assigned a group project to produce an original song. The digital audio workspace software we were learning in class was Reason (pictured above), and we needed to use that to produce the song. We were free to choose our own groups, as long as there were at least two people. I was lucky to pair up with a classmate whom I had chemistry with musically. As far as my role in the group, I wrote most of the lyrics, and provided ukulele and vocals to the song. The resulting track was entitled “Something New.”
+During the 3rd quarter of my senior year of high school, right before the pandemic, my audio engineering class was assigned a group project to produce an original song. The digital audio workspace software we were learning in class was Reason (pictured above), and we needed to use that to produce the song. We were free to choose our own groups, as long as there were at least two people. I was lucky to pair up with a classmate whom I had chemistry with musically. As far as my role in the group, I wrote most of the lyrics, and provided ukulele and vocals to the song. The resulting track was entitled “Something New.”
 
 "Something New" was a song that I had secretly been working on prior to doing the project. The inspiration behind it is unbearably cliche; basically I was crushing hard on a classmate who was already in a relationship, and it was getting to a point where I became desperate.  In retrospect, I have no idea why I thought these lyrics were okay; they’re so sappy they make me cringe. Take the chorus for example:
 
