@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The hard roads are the ones worth choosing"
 # All dates must be YYYY-MM-DD format!
-date: 2022-02-02
+date: 2023-02-02
 published: true
 labels:
   - Software Engineering
