@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/iet-logo.png
+image: img/iet-thumbnail.png
 title: "Promo Video - Academy of Industrial & Engineering Technology"
 date: 2019
 published: true

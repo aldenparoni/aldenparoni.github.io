@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/math-header.jpg
+image: img/math-thumbnail.jpg
 title: "Recursive Math Functions GUI"
 date: 2021
 published: true
@@ -22,16 +22,16 @@ Using jGRASP, there were two .java files we needed to submit: a class that set u
 Here's a portion of my code that features a custom exception being thrown:
 
 ```java
-        int base = Integer.parseInt(bUser.getText());      // change data type to int
-        int exponent = Integer.parseInt(eUser.getText());
-        if (base <= 0 || exponent < 0) {     // triggers a pop-up if any negative int is entered
-            JOptionPane.showMessageDialog(new JFrame(),
+    int base = Integer.parseInt(bUser.getText());      // change data type to int
+    int exponent = Integer.parseInt(eUser.getText());
+    if (base <= 0 || exponent < 0) {     // triggers a pop-up if any negative int is entered
+        JOptionPane.showMessageDialog(new JFrame(),
             "Error: You did not enter a positive integer!",
             "ICS-211 Exception",
             JOptionPane.ERROR_MESSAGE);
-            bUser.setText("");   // clears text field
-            eUser.setText("");
-        }
+        bUser.setText("");   // clears text field
+        eUser.setText("");
+    }
 ```
 
 Recursion was a relatively new concept to me at the time, and so I created separate .java files to make sure each math method ran perfectly. 
