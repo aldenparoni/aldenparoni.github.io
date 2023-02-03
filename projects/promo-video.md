@@ -12,7 +12,7 @@ labels:
 summary: "I edited a promo video for Waipahu High School's Academy of Industrial & Engineering Technology to be shown at 8th Grade Orientation."
 ---
 
-<img width="350px" class="rounded float-start pe-4" src="../img/premiere-pro.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/premiere-pro.png">
 
 In my senior year at Waipahu High School, when I still wanted to produce videos, I was a member of Marauder Media. The club was undergoing a tumultuous period -- our longtime club advisor suddenly left the year before, leaving the club's future uncertain. Our advisors for the time being were our assistant principals, and the first assignment they gave us was to produce promotional videos for each of the academies in our school which were to be shown at that year's 8th Grade Orientation. Waipahu High School has five academies, each for a general career field: Arts & Communication (AAC), Natural Resources (ANR), Professional & Public Services (APPS), Health & Sciences (AHS), and Industrial & Engineering Technology (IET). The club was split into groups to produce a video for one academy, which in of itself has different career pathways we needed to highlight. My group was assigned the latter academy; I was the primary editor, editing on Adobe Premiere Pro, but I also shot additional footage. 
 
