@@ -10,7 +10,7 @@ labels:
 - Coding standards
 ---
 
-<img width="450px" class="rounded float-start pe-4" src="../img/IMG_4043.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/IMG_4043.jpg">
 
 I see myself as someone with hands in two worlds. There’s the part of me that always wanted to put my proficiency in math to good use. It was my best subject throughout high school, but it was hardly a focal point in my previous career path. To this day, I don’t think I’ve heard of a film director that actually incorporated calculus into their movies. At the same time, there’s the part of me that still yearned to create and be creative. Ever since my childhood, I’ve been a musical person. After all, one of the projects I included in my professional portfolio is a song I wrote. My appreciation for music runs deep. Since 2021, I’ve kept a modest vinyl record collection that remains forever incomplete because I’m in constant search of new songs that color the world around me. Generally speaking, I think I found the best of both worlds in computer science.
 
