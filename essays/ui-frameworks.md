@@ -12,7 +12,7 @@ labels:
 - CSS
 ---
 
-<div class="text-center">
+<div class="text-center py-2">
     <img class="rounded pe-4" src="../img/IMG_4399.jpg" width="300px">
     <img class="rounded pe-4" src="../img/IMG_4393.jpg" width="300px">
     <img class="rounded pe-4" src="../img/IMG_4401.jpg" width="300px">
