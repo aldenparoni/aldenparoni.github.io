@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Super Smash Bros. but it's an analogy for something else"
+title: "A Smashing approach to solving common coding problems"
 date: 2023-04-27
 published: true
 labels:
@@ -10,11 +10,11 @@ labels:
 ---
 
 <div class="text-center">
-    <img class="rounded pe-4" src="../img/smash-wallpaper.jpg" width="1000px">
+    <img class="pe-4" src="../img/smash-wallpaper.jpg" width="1200px">
 </div>
 
-One of my childhood games that I still play to this day is Super Smash Bros. 
+One of my favorite games from my childhood that I still play to this day is Super Smash Bros. 
 
-# Relate it to design patterns
+# Super Smash Bros. but it's an analogy for design patterns
 
 # Compare approaches in code to approaches in Smash
