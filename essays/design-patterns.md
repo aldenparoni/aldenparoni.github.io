@@ -10,10 +10,10 @@ labels:
 ---
 
 <div class="text-center">
-    <img class="py-4" src="../img/smash-wallpaper.jpg" width="1200px">
+    <img class="py-4" src="../img/smash-wallpaper.jpg" width="1300px" alt="Super Smash Bros. Ultimate wallpaper of all characters">
 </div>
 
-One of my favorite games from my childhood that I still play to this day is Super Smash Bros. It's a party fighting game for Nintendo consoles where you play as iconic characters throughout video game history and try to knock your opponent(s) out of the screen. 
+One of my favorite games from my childhood that I still play to this day is Super Smash Bros. It's a party fighting game for Nintendo consoles where you play as iconic characters throughout video game history and try to knock your opponent(s) out of the screen. As a kid I used to play Smash on the GameCube.
 
 # Super Smash Bros. but it's an analogy for design patterns
 
