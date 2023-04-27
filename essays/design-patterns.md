@@ -15,6 +15,11 @@ labels:
 
 One of my favorite games from my childhood that I still play to this day is Super Smash Bros. It's a party fighting game for Nintendo consoles where you play as iconic characters throughout video game history and try to knock your opponent(s) out of the screen. As a kid I used to play Smash on the GameCube.
 
+### Stuff to talk about
+- Playing the game more seriously in high school
+- Talk about a friend I used to always lose to but always tried to analyze his play style
+- Relate it to design patterns
+
 # Super Smash Bros. but it's an analogy for design patterns
 
 # Compare approaches in code to approaches in Smash
