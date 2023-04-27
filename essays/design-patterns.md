@@ -9,7 +9,11 @@ labels:
 - Design Patterns
 ---
 
-# Explain Super Smash Bros.
+<div class="text-center">
+    <img class="rounded pe-4" src="../img/smash-wallpaper.jpg">
+</div>
+
+One of my childhood games that I still play to this day is Super Smash Bros. 
 
 # Relate it to design patterns
 
