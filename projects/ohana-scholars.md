@@ -14,4 +14,4 @@ labels:
 summary: "A website I worked on in a group project for ICS 314."
 ---
 
-
+You can learn more about the Ohana Scholars application and the team on our [project home page](https://ohana-scholars.github.io/).
