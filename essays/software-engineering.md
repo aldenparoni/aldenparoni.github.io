@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The 1975 - Love It If We Made It"
-date: 2023-05-02
+date: 2023-05-07
 published: true
 labels:
 - Software Engineering
