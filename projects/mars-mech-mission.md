@@ -27,7 +27,7 @@ I3T4 was comprised of five members, including me, and we had six weeks to develo
 
 As for my role on the team, I did the majority of the 3D art. I modeled and textured the turret, the trap, and the home base. This was a daunting task for me because I had no prior experience of doing 3D animation -- I just happened to also be taking ACM 215 at the time, which is Introduction to 3D Animation. To create the models, I used Autodesk Maya, the same software we use for ACM 215.
 
-<img src="../img/mmm-maya-screenshot.jpg" class="float-end pe-4" width="500px" alt="Maya interface with Mars Mech Mission turret model">
+<img src="../img/mmm-maya-screenshot.jpg" class="float-end px-4" width="600px" alt="Maya interface with Mars Mech Mission turret model">
 
 We wanted to incorporate 2D assets with 3D assets, reminiscent of games like _Paper Mario_. Our teammate Kurt was in charge of the 2D art, so he sketched design ideas for the turret and trap, which I used as reference in my modeling. The first few models I made for the turret were more boxy, but lacked the ability to believably spin around on its axis. In addition, funnily enough they also looked like garbage cans found in a mall. The final design of the turret takes inspiration from Killjoy's turret from _Valorant_. I designed the trap to look like a bear trap. I also repurposed one of the rejected designs of the turret to be the top piece of the home base. It was an arduous process, but I'm very proud of the work I've done given my lack of experience going in.
 
