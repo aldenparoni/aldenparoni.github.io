@@ -1,0 +1,114 @@
+{
+  "basics": {
+    "name": "Alden-Dominic Paroni",
+    "label": "Student",
+    "picture": "https://github.com/aldenparoni.png",
+    "email": "aparoni@hawaii.edu",
+    "phone": "808-365-2647",
+    "website": "https://aldenparoni.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall 2024.",
+    "location": { "address": "94-003 Poailani Circle", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "aldenparoni", "url": "https://github.com/aldenparoni" },
+      { "network": "linkedin", "username": "aldenparoni", "url": "https://www.linkedin.com/in/aldenparoni/" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Game Development" },
+    { "name": "Programming" },
+    { "name": "Screenwriting" },
+    { "name": "Korean Language" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Information & Computer Science (expected Fall, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2022-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Information & Computer Science - Software Development Specialist",
+      "studyType": "A.S.",
+      "startDate": "2021-01-11",
+      "endDate": "2022-05-17",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2017-01-09",
+      "endDate": "2022-05-17",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Waipahu High School",
+      "position": "CRASH Night Presenter",
+      "website": "",
+      "startDate": "2022-10-16",
+      "endDate": "Present",
+      "summary": "Led post-high school readiness workshops with high school students"
+    },
+    {
+      "company": "Waipahu High School",
+      "position": "AmeriCorps VISTA Summer Associate - Tagnawa Tutor",
+      "website": "",
+      "startDate": "2022-05-27",
+      "endDate": "2022-07-31",
+      "summary": "Tutored for Waipahu High School Early College, Summer Sessions I & II",
+      "highlights": [
+        "Courses tutored: ASTR 110, ENG 100",
+        "Supervised students during study hall sessions over Google Meets",
+        "Prepared study guides and quiz games for ASTR 110",
+        "Peer reviewed students' drafts for ENG 100"
+      ]
+    },
+    {
+      "company": "Leeward Community College",
+      "position": "Language Arts Peer Mentor",
+      "website": "",
+      "startDate": "2022-01-05",
+      "endDate": "2022-05-17",
+      "summary": "Tutored for ENG 16 (developmental English)",
+      "highlights": [
+        "Closely worked with course instructor to develop lesson plans",
+        "Attended class meetings over Zoom with students",
+        "Prepared slideshow presentations for lectures",
+        "Peer reviewed students' drafts"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "Fall 2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earned a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade, and did not receive grades of W, I, F, or NC"
+    },
+    {
+      "title": "Transfer Merit Scholarship",
+      "date": "2022",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students transferring from a UH System community college"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

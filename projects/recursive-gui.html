@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Recursive Math Functions GUI | Alden-Dominic Paroni | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/aldenparoni.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Alden-Dominic Paroni | Professional Portfolio">
+    <meta property="og:url" content="https://aldenparoni.github.io/projects/recursive-gui.html">
+    <meta property="og:title" content="Recursive Math Functions GUI | Alden-Dominic Paroni | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/aldenparoni.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Recursive Math Functions GUI | Alden-Dominic Paroni | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Alden-Dominic Paroni</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Recursive Math Functions GUI</h1>
+ <p><img width="500px" class="rounded float-start pe-4" src="../img/recursive-gui.png" /></p>
+
+<p>In one of the later assignments in ICS 211, I needed to use what I learned about graphical user interfaces and recursion to create a GUI that calculated exponents, factorials, and summations recursively given the user’s input. This was an individual assignment, but in this asynchronous class I was lucky to have a high school friend as my classmate and study buddy. Throughout the semester we would work on these assignments together, but made sure to write our own code. Frequently during our Discord study sessions we’d bounce ideas off each other and overall help each other out.</p>
+
+<p>Using jGRASP, there were two .java files we needed to submit: a class that set up the GUI and its functions, and a driver class to run the GUI. Most of the time spent working on this assignment was on setting up the GUI alone. I had never written so many lines of code for one assignment, but it was worth making sure my GUI looked balanced and aesthetically pleasing. I declared quite a few “empty” labels with five spaces as the string to center the actual text. Aiming to make a visual pop, I changed the font of the text from the default Arial to Rockwell, and incorporated pastel colors. You can never trust the user to enter valid inputs, so I needed to write custom exceptions to keep the user in check.</p>
+
+<p>Here’s a portion of my code that features a custom exception being thrown:</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>    <span class="kt">int</span> <span class="n">base</span> <span class="o">=</span> <span class="nc">Integer</span><span class="o">.</span><span class="na">parseInt</span><span class="o">(</span><span class="n">bUser</span><span class="o">.</span><span class="na">getText</span><span class="o">());</span>      <span class="c1">// change data type to int</span>
+    <span class="kt">int</span> <span class="n">exponent</span> <span class="o">=</span> <span class="nc">Integer</span><span class="o">.</span><span class="na">parseInt</span><span class="o">(</span><span class="n">eUser</span><span class="o">.</span><span class="na">getText</span><span class="o">());</span>
+    <span class="k">if</span> <span class="o">(</span><span class="n">base</span> <span class="o">&lt;=</span> <span class="mi">0</span> <span class="o">||</span> <span class="n">exponent</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="o">)</span> <span class="o">{</span>     <span class="c1">// triggers a pop-up if any negative int is entered</span>
+        <span class="nc">JOptionPane</span><span class="o">.</span><span class="na">showMessageDialog</span><span class="o">(</span><span class="k">new</span> <span class="nc">JFrame</span><span class="o">(),</span>
+            <span class="s">"Error: You did not enter a positive integer!"</span><span class="o">,</span>
+            <span class="s">"ICS-211 Exception"</span><span class="o">,</span>
+            <span class="nc">JOptionPane</span><span class="o">.</span><span class="na">ERROR_MESSAGE</span><span class="o">);</span>
+        <span class="n">bUser</span><span class="o">.</span><span class="na">setText</span><span class="o">(</span><span class="s">""</span><span class="o">);</span>   <span class="c1">// clears text field</span>
+        <span class="n">eUser</span><span class="o">.</span><span class="na">setText</span><span class="o">(</span><span class="s">""</span><span class="o">);</span>
+    <span class="o">}</span>
+</code></pre></div></div>
+
+<p>Recursion was a relatively new concept to me at the time, and so I created separate .java files to make sure each math method ran perfectly.</p>
+
+<p>Here’s my code for a recursive method that calculates exponents:</p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code>   <span class="cm">/**
+    * Recursive method to perform the exponential operation.
+    *
+    * @param      base        The number multiplying to itself
+    * @param      exponent    The number of times the base will multiply itself
+    * @return     product     The end result
+    */</span>
+   <span class="kd">public</span> <span class="kt">int</span> <span class="nf">power</span><span class="o">(</span><span class="kt">int</span> <span class="n">base</span><span class="o">,</span> <span class="kt">int</span> <span class="n">exponent</span><span class="o">)</span> <span class="o">{</span>
+      <span class="kt">int</span> <span class="n">product</span><span class="o">;</span>
+      <span class="k">if</span> <span class="o">(</span><span class="n">exponent</span> <span class="o">==</span> <span class="mi">0</span><span class="o">)</span> <span class="o">{</span>
+         <span class="n">product</span> <span class="o">=</span> <span class="mi">1</span><span class="o">;</span>
+         <span class="k">return</span> <span class="n">product</span><span class="o">;</span>
+      <span class="o">}</span>
+      <span class="k">else</span> <span class="o">{</span>
+         <span class="n">product</span> <span class="o">=</span> <span class="n">base</span> <span class="o">*</span> <span class="n">power</span><span class="o">(</span><span class="n">base</span><span class="o">,</span> <span class="o">(</span><span class="n">exponent</span> <span class="o">-</span> <span class="mi">1</span><span class="o">));</span>
+         <span class="k">return</span> <span class="n">product</span><span class="o">;</span>
+      <span class="o">}</span>
+   <span class="o">}</span>
+</code></pre></div></div>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
