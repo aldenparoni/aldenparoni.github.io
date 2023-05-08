@@ -15,19 +15,18 @@ At the beginning of every semester since I've been at Manoa (which at this point
 Just as my playlist compiled songs as the semester progressed, so have I gradually gained knowledge and experience in software engineering this semester in ICS 314. We've learned various fundamental topics of software engineering under the backdrop of web development, but they can generally be applied to other areas in the field. In fact, some can even apply outside of computer science altogether. In this essay I will discuss two topics I learned this semester, connecting them to a song that's actually on the playlist I linked above.
 
 ## Tevin Campbell - Can We Talk
-<img src="../img/tevin-campbell-cover-art.jpg" class="float-start pe-3" width="150px" alt="The Best of Tevin Campbell album cover">
+<img src="../img/tevin-campbell-cover-art.jpg" class="float-start pe-3" width="200px" alt="The Best of Tevin Campbell album cover">
 
 In this 90s R&B classic produced by the legendary Babyface, Tevin Campbell sings about building up his confidence to walk up and talk to a girl he had been admiring from a distance. If I had the pipes for this song I'd be belting it in the shower every morning. He sings so high, but it's what makes this song one I always come back to. Somehow I relate "Can We Talk" to open source software development -- namely, how to participate in the open source community without making a fool of yourself.
 
-The beautiful thing about open source development is that source code can be available for everyone to use and play around with themselves. Of course, there's a lot more nuance to that statement, but ultimately it's there. From this, one can also seek feedback from other programmers on how to improve their source code in the case debugging struggles. However, the open source community can be sassy, for lack of a better word. If you should ever find yourself stumped on a coding assignment and think about consulting the good people on Stack Overflow for help, there's some steps you should take before hastily posting your question.
+_"But just like a baby, I could not talk / And I tried to come closer, but could not walk / And I think of it every night / How I just could not get it right, oh"_
 
-_But just like a baby, I could not talk_
-_And I tried to come closer, but could not walk_
-_And I think of it every night_
-_How I just could not get it right, oh_
+The beautiful thing about open source development is that source code can be available for everyone to use and play around with themselves. Of course, there's a lot more nuance to that statement, but ultimately it's there. From this, one can also seek feedback from other programmers on how to improve their source code in the case debugging struggles. However, the open source community can be sassy, for lack of a better word. Should you ever be stumped on a coding assignment and think about consulting the good people on Stack Overflow for help, you need to make sure not to be shut down with a snarky did-you-read-the-manual response.
+
+First things first, see if your issue has been solved before on a site like Stack Overflow. If the solution provided works for you, then there's no need to ask further. Otherwise, you'll need to present your issue as a smart question. All the necessary details need to be crystal clear. If you are dealing with multiple issues in your code, focus on only one and provide the relevant code. This way readers are not left having to imagine what to do to help, and they can respond in a timely manner.
 
 ## Porter Robinson - Blossom
-<img src="../img/porter-robinson-nurture.jpg" class="float-start pe-3" width="150px" alt="Porter Robinson Nurture album cover">
+<img src="../img/porter-robinson-nurture.jpg" class="float-start pe-3" width="200px" alt="Porter Robinson Nurture album cover">
 
 This is probably the saddest happy love song I've ever listened to. 
 
