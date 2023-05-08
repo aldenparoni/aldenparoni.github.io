@@ -4,7 +4,7 @@ type: project
 image: img/IMG_4708.jpeg
 title: "Original Song Project - \"Something New\""
 date: 2020
-published: true
+published: false
 labels:
   - Songwriting
   - Reason

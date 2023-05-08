@@ -4,7 +4,7 @@ type: essay
 title: "My ceramic masterpiece of HTML, CSS, and Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-23
-published: true
+published: false
 labels:
 - UI Frameworks
 - Twitter Bootstrap

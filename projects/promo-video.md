@@ -4,7 +4,7 @@ type: project
 image: img/iet-thumbnail.png
 title: "Promo Video - Academy of Industrial & Engineering Technology"
 date: 2019
-published: true
+published: false
 labels:
 - Adobe Premiere Pro
 - Video Production

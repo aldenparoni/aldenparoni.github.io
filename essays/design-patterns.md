@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A Smashing approach of design patterns"
 date: 2023-04-27
-published: true
+published: false
 labels:
 - Design Patterns
 ---
