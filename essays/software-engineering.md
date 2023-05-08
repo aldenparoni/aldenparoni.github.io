@@ -14,7 +14,7 @@ At the beginning of every semester since I've been at Manoa (which at this point
 
 Just as my playlist compiled songs as the semester progressed, so have I gradually gained knowledge and experience in software engineering this semester in ICS 314. We've learned various fundamental topics of software engineering under the backdrop of web development, but they can generally be applied to other areas in the field. In fact, some can even apply outside of computer science altogether. In this essay I will discuss two topics I learned this semester, connecting them to a song that's actually on the playlist I linked above.
 
-## Tevin Campbell - Can We Talk
+## Open Source Development: Tevin Campbell - Can We Talk
 <img src="../img/tevin-campbell-cover-art.jpg" class="float-start pe-3 pt-2" width="200px" alt="The Best of Tevin Campbell album cover">
 
 In this 90s R&B classic produced by the legendary Babyface, Tevin Campbell sings about building up his confidence to walk up and talk to a girl he had been admiring from a distance. If I had the pipes for this song I'd be belting it in the shower every morning. He sings so high, but it's what makes this song one I always come back to.
@@ -25,7 +25,7 @@ Somehow I relate "Can We Talk" to open source software development -- namely, ho
 
 First things first, see if your issue has been solved before on a site like Stack Overflow. If the solution provided works for you, then there's no need to ask further. Otherwise, you'll need to present your issue as a smart question. All the necessary details need to be crystal clear. If you are dealing with multiple issues in your code, focus on only one and provide the relevant code. This way readers are not left having to imagine what to do to help, and they can respond in a timely manner.
 
-## Porter Robinson - Blossom
+## Coding Standards: Porter Robinson - Blossom
 <img src="../img/porter-robinson-nurture.jpg" class="float-start pe-3 pt-2" width="200px" alt="Porter Robinson Nurture album cover">
 
 This is probably the saddest happy love song I've ever listened to. Porter Robinson's sophomore album _Nurture_ is one of my favorite albums ever. I'm dying to get it on vinyl to add to my collection. "Blossom" is a deep cut in the record, and in stark contrast to the enchanting folk-inspired synthpop, the song is an acoustic ballad more akin to a lullaby. 
