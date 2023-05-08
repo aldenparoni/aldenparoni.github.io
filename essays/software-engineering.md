@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Spring 2023 Mixtape"
-date: 2023-05-07
+date: 2023-05-08
 published: true
 labels:
 - Software Engineering
@@ -28,7 +28,14 @@ First things first, see if your issue has been solved before on a site like Stac
 ## Coding Standards: Porter Robinson - Blossom
 <img src="../img/porter-robinson-nurture.jpg" class="float-start pe-3 pt-2" width="200px" alt="Porter Robinson Nurture album cover">
 
-This is probably the saddest happy love song I've ever listened to. Porter Robinson's sophomore album _Nurture_ is one of my favorite albums ever. I'm dying to get it on vinyl to add to my collection. "Blossom" is a deep cut in the record, and in stark contrast to the enchanting folk-inspired synthpop, the song is an acoustic ballad more akin to a lullaby. 
+This is probably the saddest happy love song I've ever listened to. Porter Robinson's sophomore album _Nurture_ is one of my favorite albums ever. I'm dying to get it on vinyl to add to my collection. "Blossom" is a deep cut in the record, and in stark contrast to the enchanting folk-inspired synthpop, the song is an acoustic guitar ballad more akin to a lullaby. 
 
 _"Oh, it's not alright, that one day we're all out of time / I'll write you another life, I'm sorry for crying / It's just that I love you / "One day" can't be far enough"_
 
+"Blossom" is the kind of song I wish I was able to write. I don't know if I mentioned this in my previous essays, but when I got my ukulele for my 18th birthday, I spent day and night writing songs. Best-case they were cute songs; worst-case they were unbearably corny. Nonetheless, during songwriting, I would normally want to stick to the key that I'd decide for a song I'd be working on. Keep the chords within the key along with the melody. It's sort of like when you're coding, you follow a coding standard to maintain cleanliness and clarity. A particular aspect of coding standards that I found to be very important is commenting. When other people are looking at your code, it will most likely take them a while to get the gist of what your code does if you don't put comments. 
+
+This semester we worked with JavaScript and its associated coding standard ESLint. I found ESLint to be like pitch correction for your code. When a singer is in the recording booth, sometimes they may miss a few notes here and there. Pitch correction, as the name suggests, manipulates the recorded vocals so that the singer can be on pitch. As the singer strays farther off from the right note, the more the pitch correction turns their voice into something robotic. Auto-Tune is just an exaggerated form of pitch correction. Similarly, ESLint can quickly detect errors or possible errors in your code and offer you quick fixes to those errors. ESLint has been very helpful to me throughout this semester.
+
+## Want a break from the ads?
+
+As I close out my first full year at UH-Manoa, I take with me the experience and knowledge I gained throughout both semesters. Each song I added to my playlist is a memory sealed. I've learned so much in ICS 314 in such a short timespan. I hope the knowledge I gained here will help me as I continue in my computer science journey.
