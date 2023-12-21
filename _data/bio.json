@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "SQL" ]
     }
   ],
   "education": [
@@ -56,11 +56,24 @@
   ],
   "work": [
     {
+      "company": "Honolulu Authority for Rapid Transportation (HART)",
+      "position": "Business Systems Intern",
+      "website": "https://honolulutransit.org/",
+      "startDate": "2023-05-22",
+      "endDate": "Present",
+      "summary": "Helping manage and create business processes for HART's PMIS (Project Management Information System",
+      "highlights": [
+        "Full-time over the summer; currently part-time",
+        "Learned basic construction management concepts and Oracle Primavera Unifier",
+        "Summer internship project was developing a business process to manage punch lists"
+      ]
+    },    
+    {
       "company": "Waipahu High School",
       "position": "CRASH Night Presenter",
       "website": "",
       "startDate": "2022-10-16",
-      "endDate": "Present",
+      "endDate": "2023-02-09",
       "summary": "Led post-high school readiness workshops with high school students"
     },
     {
