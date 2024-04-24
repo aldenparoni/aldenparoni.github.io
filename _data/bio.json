@@ -7,28 +7,32 @@
     "phone": "808-365-2647",
     "website": "https://aldenparoni.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall 2024.",
-    "location": { "address": "94-003 Poailani Circle", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "94-1329 Huakai Street", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "aldenparoni", "url": "https://github.com/aldenparoni" },
       { "network": "linkedin", "username": "aldenparoni", "url": "https://www.linkedin.com/in/aldenparoni/" }
     ]
   },
   "interests": [
-    { "name": "Video Game Development" },
-    { "name": "Programming" },
+    { "name": "Software Engineering" },
+    { "name": "Web Development" },
     { "name": "Screenwriting" },
     { "name": "Korean Language" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "SQL" ]
+      "name": "Programming Languages",
+      "keywords": [ "C", "C++", "Java", "JavaScript", "Python", "SQL" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "Meteor", "React Boostrap", "TestCafe" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Information & Computer Science (expected Fall, 2024)",
+      "area": "Information & Computer Science (expected Fall 2024)",
       "studyType": "B.A.",
       "startDate": "2022-08-22",
       "endDate": "Present",
@@ -65,13 +69,13 @@
       "highlights": [
         "Full-time over the summer; currently part-time",
         "Learned basic construction management concepts and Oracle Primavera Unifier",
-        "Summer internship project was developing a business process to manage punch lists"
+        "Summer internship project: develop a business process to manage punch lists"
       ]
     },
     {
       "company": "Waipahu High School",
       "position": "CRASH Night Presenter",
-      "website": "",
+      "website": "https://www.waipahuhigh.org/apps/pages/index.jsp?uREC_ID=555440&type=d",
       "startDate": "2022-10-16",
       "endDate": "2023-02-09",
       "summary": "Led post-high school readiness workshops with high school students"
@@ -79,7 +83,7 @@
     {
       "company": "Waipahu High School",
       "position": "AmeriCorps VISTA Summer Associate - Tagnawa Tutor",
-      "website": "",
+      "website": "https://www.waipahuhs-earlycollege.org/",
       "startDate": "2022-05-27",
       "endDate": "2022-07-31",
       "summary": "Tutored for Waipahu High School Early College, Summer Sessions I & II",
