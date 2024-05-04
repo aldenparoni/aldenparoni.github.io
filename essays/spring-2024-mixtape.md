@@ -6,8 +6,10 @@ title: "Spring 2024 Mixtape"
 date: 2024-05-03
 published: true
 labels:
-  - JavaScript
-  - React Bootstrap
+- ICS 414 Final Exam
+- Software Engineering
+- CSS
+- TestCafe
 ---
 
 ## Outline
