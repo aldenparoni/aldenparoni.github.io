@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Spring 2024 Mixtape"
+title: "My ICS 414 experience, as told by my Spotify"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-03
 published: true
@@ -17,13 +17,3 @@ labels:
 
 _"Do you think I have forgotten about you?"_
 
-## Outline
-
-- figuring out where i fit in the team
-- helping out with site-wide styling
-- helping out ryan with creating acceptance tests
-
-### Songs I could include?
-
-- The 1975 - About You
-- LE SSERAFIM - Easy
