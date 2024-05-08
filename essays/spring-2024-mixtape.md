@@ -19,7 +19,7 @@ Two semesters ago, when I took ICS 314, I approached the final exam essay with t
 
 _"Do you think I have forgotten about you?"_
 
-First few weeks of class, trying to figure out what my role in the group would be
+Going in, I was actually a bit worried about having waited a semester after  314 to take 414. Over winter break, I retook the freeCodeCamp courses on JavaScript and ES6 to refresh my memory on the material from 314. 
 
 ## LE SSERAFIM - Easy | _If it's hard then I make it easy_ 
 <img src="../img/le-sserafim-easy.jpg" class="float-start pe-3 pt-2" width="200px" alt="LE SSERAFIM - Easy EP cover">
