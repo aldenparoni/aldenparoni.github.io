@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My ICS 414 experience, as told by my Spotify"
 # All dates must be YYYY-MM-DD format!
-date: 2024-05-03
+date: 2024-05-07
 published: true
 labels:
 - ICS 414 Final Exam
@@ -12,8 +12,21 @@ labels:
 - TestCafe
 ---
 
-## The 1975 - About You
+Two semesters ago, when I took ICS 314, I approached the final exam essay with the idea of using my Spotify as a means to showcase what I had learned throughout the semester. As I mentioned before in that essay, at the beginning of every semester I create a new playlist with initially zero songs. Over time, I add songs to the playlist that are either connected to a significant memory or are simply enjoyable. By the end of finals week, I would have created a little time capsule for myself to reflect and reminisce on the last 17 or 18 weeks. Each semester seems to rush on quicker than the last; to already be so close to the finish line of Spring 2024 is startling. Just as I did with ICS 314, I plan to clearly describe my experience in ICS 414 through the lens of [this semester's Spotify playlist](https://open.spotify.com/playlist/0sXG4xCugakEbUZtkwqiaG?si=b6e7a1e741634bed).
+
+## The 1975 - About You | _Do you think I have forgotten?_
 <img src="../img/1975-bfiafl.jpg" class="float-start pe-3 pt-2" width="200px" alt="The 1975 - Being Funny in a Foreign Language album cover">
 
 _"Do you think I have forgotten about you?"_
+
+First few weeks of class, trying to figure out what my role in the group would be
+
+## LE SSERAFIM - Easy | _If it's hard then I make it easy_ 
+<img src="../img/le-sserafim-easy.jpg" class="float-start pe-3 pt-2" width="200px" alt="LE SSERAFIM - Easy EP cover">
+
+_"Yeah, know that I make it look easy"_
+
+Creating acceptance tests
+
+## Sabrina Carpenter - Espresso | _I'm working late 'cause I'm a singer_
 
