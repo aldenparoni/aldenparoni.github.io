@@ -19,9 +19,9 @@ Two semesters ago, when I took ICS 314, I approached the final exam essay with t
 
 _"Do you think I have forgotten about you?"_
 
-Going in, I was actually a bit worried about having waited a semester after 314 to take 414. I hadn't worked on anything with Meteor or React since taking 314, so I was scared that I put myself behind. Over winter break, I retook the freeCodeCamp courses on JavaScript and ES6 to refresh my memory. I prepared as much as I could for this class. 
+Going in, I was actually a bit worried about having waited a semester after 314 to take 414. I hadn't worked on anything with Meteor or React since taking 314, so I was scared that I put myself behind. Over winter break, I retook the freeCodeCamp courses on JavaScript and ES6 to refresh my memory. I prepared as much as I could for this class. Upon learning that I would be working in a group for the entire semester, my worries then shifted to my role in the team. Where would I fit? How would I contribute? On the first day of class, when I settled into my group, I made it clear that it had been a while since I took 314. I remember we went around the table asking what each person was good at, and during my turn I half-jokingly responded, "I just work hard". 
 
-Upon learning that I would be working in a group for the entire semester, my worries then shifted to my role in the team. Where would I fit? How would I contribute? On the first day of class, when we settled into our groups, I made it clear that it had been a while since I took 314. I remember we went around the table asking what each of us were good at, and I half-jokingly responded, "I just work hard". 
+The group size was another thing I was worried about. I didn't want to be one of those teammates that faded into the background and rode the coattails of the people who were actually contributing. However, after the first couple milestones, it honestly felt like I was just there. Even though I was finishing tasks and pushing to main, it paled in comparison to what some of my fellow teammates were doing. I I volunteered to lead the code review meetings so I could feel like I was actually doing something.
 
 ## LE SSERAFIM - Easy | _If it's hard then I make it easy_ 
 <img src="../img/le-sserafim-easy.jpg" class="float-start pe-3 pt-2" width="200px" alt="LE SSERAFIM - Easy EP cover">
