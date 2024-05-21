@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/voluntreeLogo.png
 title: "Voluntree"
 date: 2024
 published: true
