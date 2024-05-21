@@ -4,7 +4,7 @@ type: project
 image: img/math-thumbnail.jpg
 title: "Recursive Math Functions GUI"
 date: 2021
-published: true
+published: false
 labels:
 - Java
 - jGRASP
