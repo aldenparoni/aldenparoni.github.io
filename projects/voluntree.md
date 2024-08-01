@@ -14,4 +14,10 @@ labels:
 summary: "A volunteer search web app developed as a group project for ICS 414."
 ---
 
-See the development site [here](https://ube-dev.github.io/).
+<div class="text-center">
+    <img class="pb-3" src="../img/voluntree-landing.png" alt="Voluntree landing page">
+</div>
+
+Voluntree is a non-profit organization founded by Sara Henley with the mission to help aspiring volunteers find community service opportunities and connect with organizers. 
+
+You can learn more about our group project in the development site [here](https://ube-dev.github.io/).
